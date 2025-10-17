@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "demo": "Demo",
+    "download": "Download",
+    "language": "Language"
+  },
+  "hero": {
+    "title1": "Your AI Assistant",
+    "title2": "On the Road",
+    "title3": "Every Journey",
+    "description": "Monitor the road in real-time, receive safety alerts, and use voice guidance with artificial intelligence technology.",
+    "downloadIOS": "Download for iOS",
+    "downloadAndroid": "Download for Android"
+  },
+  "features": {
+    "title": "Amazing Features",
+    "subtitle": "AssistantDrive makes every drive safer and easier",
+    "laneDetection": {
+      "title": "Lane Detection",
+      "description": "AI tracks road lines in real-time and warns about the danger of lane departure"
+    },
+    "trafficAlerts": {
+      "title": "Traffic Alerts",
+      "description": "Instant notifications about traffic lights, road signs and road conditions"
+    },
+    "voiceGuidance": {
+      "title": "Voice Guidance",
+      "description": "Hear clear voice instructions without taking your eyes off the road"
+    },
+    "lowLatency": {
+      "title": "Fast Performance",
+      "description": "Real-time analysis with millisecond response time"
+    },
+    "privacy": {
+      "title": "Privacy First",
+      "description": "All data is processed on your device, nothing is sent"
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Three simple steps to get started with AssistantDrive"
+  },
+  "steps": {
+    "mount": {
+      "title": "Mount Your Phone",
+      "description": "Secure your smartphone on the dashboard and open the app"
+    },
+    "drive": {
+      "title": "Start Driving",
+      "description": "AI will start analyzing the road in real-time"
+    },
+    "alerts": {
+      "title": "Get Alerts",
+      "description": "Instant voice and visual notifications about safety"
+    }
+  },
+  "demo": {
+    "title": "See It In Action",
+    "subtitle": "Watch how AssistantDrive works in real-time",
+    "videoTitle": "Video Demonstration",
+    "videoPlaceholder": "Video demonstration (coming soon)",
+    "voiceTitle": "Voice Alert Demo",
+    "playButton": "Listen to Voice Alert",
+    "voiceAlert": "Attention! You are crossing the road line. Please be careful.",
+    "translation": "In English"
+  },
+  "privacy": {
+    "title": "Privacy & Reliability",
+    "subtitle": "Your safety and privacy are our top priorities",
+    "encryption": {
+      "title": "AES-256 Encryption",
+      "description": "Military-grade encryption protects all your driving data on-device."
+    },
+    "noSharing": {
+      "title": "No Data Sharing",
+      "description": "Personal data never leaves your device unless you explicitly choose to share it."
+    },
+    "consent": {
+      "title": "User Consent",
+      "description": "You have full control over what data is collected and how it's used."
+    }
+  },
+  "download": {
+    "title": "Download AssistantDrive",
+    "subtitle": "Join thousands of drivers trusting AssistantDrive for safer journeys",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "downloadOn": "Download on",
+    "getItOn": "Get it on",
+    "comingSoon": "Coming Soon",
+    "scanToDownload": "Scan to download"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have questions? We'd love to hear from you. Send us a message and we'll reply as soon as possible.",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "you@example.com",
+    "message": "Message",
+    "messagePlaceholder": "Your message...",
+    "sendMessage": "Send Message"
+  },
+  "footer": {
+    "description": "Your trusted partner for safer driving with artificial intelligence technology.",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "faq": "FAQ",
+    "allRightsReserved": "All rights reserved.",
+    "poweredBy": "Powered by Readdy.ai"
+  }
+}

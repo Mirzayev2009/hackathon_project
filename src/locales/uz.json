@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "features": "Imkoniyatlar",
+    "howItWorks": "Qanday ishlaydi",
+    "demo": "Demo",
+    "download": "Yuklab olish",
+    "language": "Til"
+  },
+  "hero": {
+    "title1": "Yo'lingizni yorituvchi",
+    "title2": "AI Yordamchingiz",
+    "title3": "Har Bir Sayohatingizda",
+    "description": "Sun'iy intellekt texnologiyasi bilan yo'lni real vaqtda kuzatib boring, xavfsizlik ogohlantirishlarini oling va ovozli yo'riqnomadan foydalaning.",
+    "downloadIOS": "iOS uchun yuklab olish",
+    "downloadAndroid": "Android uchun yuklab olish"
+  },
+  "features": {
+    "title": "Ajoyib Imkoniyatlar",
+    "subtitle": "AssistantDrive yordamida har bir haydovchilik xavfsizroq va osonroq bo'ladi",
+    "laneDetection": {
+      "title": "Yo'lni Aniqlash",
+      "description": "Sun'iy intellekt real vaqtda yo'l chizig'ini kuzatib boradi va yo'ldan chiqish xavfi haqida ogohlantiradi"
+    },
+    "trafficAlerts": {
+      "title": "Trafik Ogohlantirishlari",
+      "description": "Svetoforlar, yo'l belgilari va yo'l sharoitlari haqida oniy xabarnomalar"
+    },
+    "voiceGuidance": {
+      "title": "Ovozli Yo'riqnoma",
+      "description": "Ko'zingizni yo'ldan uzmasdan aniq ovozli ko'rsatmalarni eshiting"
+    },
+    "lowLatency": {
+      "title": "Tez Ishlash",
+      "description": "Millisekund darajasida javob berish vaqti bilan real vaqt tahlili"
+    },
+    "privacy": {
+      "title": "Maxfiylik Birinchi",
+      "description": "Barcha ma'lumotlar qurilmangizda qayta ishlanadi, hech narsa yuborilmaydi"
+    }
+  },
+  "howItWorks": {
+    "title": "Qanday Ishlaydi",
+    "subtitle": "AssistantDrive bilan boshlash uchun uchta oddiy qadam"
+  },
+  "steps": {
+    "mount": {
+      "title": "Telefonni O'rnating",
+      "description": "Smartfoningizni boshqaruv panelida mahkamlang va ilovani oching"
+    },
+    "drive": {
+      "title": "Haydovchilikni Boshlang",
+      "description": "AI real vaqtda yo'lni tahlil qilishni boshlaydi"
+    },
+    "alerts": {
+      "title": "Ogohlantirishlar Oling",
+      "description": "Xavfsizlik haqida darhol ovozli va vizual xabarnomalar oling"
+    }
+  },
+  "demo": {
+    "title": "Amalda Ko'ring",
+    "subtitle": "AssistantDrive qanday ishlashini real vaqtda tomosha qiling",
+    "videoTitle": "Video Namoyish",
+    "videoPlaceholder": "Video namoyishi (tez orada)",
+    "voiceTitle": "Ovozli Ogohlantirish Demo",
+    "playButton": "Ovozli Ogohlantirishni Eshitish",
+    "voiceAlert": "Diqqat! Siz yo'l chizig'ini kesib o'tyapsiz. Iltimos, ehtiyot bo'ling.",
+    "translation": "O'zbek tilida"
+  },
+  "privacy": {
+    "title": "Maxfiylik va Ishonchlilik",
+    "subtitle": "Sizning xavfsizligingiz va maxfiyligingiz bizning asosiy ustuvorligimiz",
+    "encryption": {
+      "title": "AES-256 Shifrlash",
+      "description": "Harbiy darajadagi shifrlash barcha haydovchilik ma'lumotlaringizni himoya qiladi"
+    },
+    "noSharing": {
+      "title": "Ma'lumotlar Almashilmaydi",
+      "description": "Shaxsiy ma'lumotlaringiz hech qachon qurilmangizdan chiqmaydi"
+    },
+    "consent": {
+      "title": "Foydalanuvchi Roziligi",
+      "description": "Qaysi ma'lumotlar to'planishi va ishlatilishi ustidan to'liq nazorat"
+    }
+  },
+  "download": {
+    "title": "AssistantDrive-ni Yuklab Oling",
+    "subtitle": "Xavfsizroq sayohatlar uchun AssistantDrive-ga ishongan minglab haydovchilar safiga qo'shiling",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "downloadOn": "Yuklab oling",
+    "getItOn": "Oling",
+    "comingSoon": "Tez Orada",
+    "scanToDownload": "Yuklab olish uchun skanerlang"
+  },
+  "contact": {
+    "title": "Biz bilan bog'laning",
+    "subtitle": "Savollaringiz bormi? Sizdan eshitishdan mamnun bo'lamiz. Bizga xabar yuboring va imkon qadar tezroq javob beramiz.",
+    "email": "Elektron pochta",
+    "phone": "Telefon",
+    "address": "Manzil",
+    "name": "Ism",
+    "namePlaceholder": "Ismingiz",
+    "emailPlaceholder": "sizning@email.com",
+    "message": "Xabar",
+    "messagePlaceholder": "Xabaringiz...",
+    "sendMessage": "Xabar Yuborish"
+  },
+  "footer": {
+    "description": "Sun'iy intellekt texnologiyasi yordamida xavfsizroq haydovchilik uchun sizning ishonchli hamkoringiz.",
+    "quickLinks": "Tezkor Havolalar",
+    "support": "Yordam",
+    "helpCenter": "Yordam Markazi",
+    "privacyPolicy": "Maxfiylik Siyosati",
+    "termsOfService": "Foydalanish Shartlari",
+    "faq": "Ko'p Beriladigan Savollar",
+    "allRightsReserved": "Barcha huquqlar himoyalangan.",
+    "poweredBy": "Powered by Readdy.ai"
+  }
+}
